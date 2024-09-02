@@ -1,0 +1,12 @@
+What we need is:
+
+- A Board class:
+	- class variable positions is a two dimesional Array with all positions set to nil
+	- root variable
+- Node class:
+	- vertex variable
+	- next node variable
+- KnightGraph class:
+	- graphroot variable
+	- moves function which finds the fastes path betwenn two points
+	- build graph function which has all posibilities
