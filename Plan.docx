@@ -9,4 +9,4 @@ What we need is:
 - KnightGraph class:
 	- graphroot variable
 	- moves function which finds the fastes path betwenn two points
-	- build graph function which has all posibilities
+	- build graph function which has all posibili
